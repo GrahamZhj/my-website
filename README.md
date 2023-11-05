@@ -3,7 +3,4 @@
 This is a really awesome website
 
 
-Now edit on update-readme branch
-
-
-Updated locally
+update made on main github interface
